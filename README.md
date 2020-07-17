@@ -1,5 +1,7 @@
 # vue-isomorphic-git
 
+> Vue.js + isomorphic-git
+
 ## Project setup
 ```
 npm install
